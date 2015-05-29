@@ -1,5 +1,6 @@
 Slider for Elgg
 ===============
+![Elgg 1.11](https://img.shields.io/badge/Elgg-1.11.x-orange.svg?style=flat-square)
 
 Responsive slider based on Slick.js
 

@@ -7,7 +7,7 @@
 	<category>UI</category>
 	<description>A tool for generating sliders</description>
 	<website>http://hypejunction.com/</website>
-	<copyright>See COPYRIGHT.txt</copyright>
+	<copyright>2015 (c) Ismayil Khayredinov</copyright>
 	<license>GNU General Public License version 2</license>
 	<requires>
 		<type>elgg_release</type>
